@@ -13,6 +13,8 @@ One Wiki Only? Fork It.
 
 First off fork this repo and call it something like `<MyProject>-wiki`.
 
+See https://help.github.com/en/articles/renaming-a-repository for instructions how to rename repositories on GitHub.
+
 Multiple Wikis? Clone It.
 -------------------------
 
@@ -30,6 +32,13 @@ cd mdwiki-seed
 git remote add foobar <HTTPS/SSH Clone URL of the New Repository>
 git push foobar gh-pages
 ```
+
+Make Wiki Available via GitHub Pages
+------------------------------------
+
+An initial dummy wiki should now already be available at https://<username>.github.io/<MyProject>-wiki. If this is not the case, ensure GitHub Pages is configured to publish the gh-pages branch and chose a theme for the repository's GitHub Pages.
+
+See also https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages
 
 Create a New Wiki
 -----------------
