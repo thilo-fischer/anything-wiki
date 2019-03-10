@@ -1,9 +1,4 @@
-<!--
-  -- Name of your wiki
-  -- Do NOT remove the leading `#` character.
-  -->
-
-# Your wiki name
+# Thilo's Anything Wiki
 
 
 <!--
