@@ -1,7 +1,7 @@
 {
-  "additionalFooterText": "All content and images &copy; by Your Name Goes Here&nbsp;",
+  "additionalFooterText": "All content and images &copy; by Thilo Fischer<br /><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" /></a><br />Licensed under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />",
   "anchorCharacter": "#",
   "lineBreaks": "gfm",
-  "title": "Your wiki name",
+  "title": "Thilo's Anything Wiki",
   "useSideMenu": true
 }
