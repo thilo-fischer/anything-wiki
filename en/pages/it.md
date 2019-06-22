@@ -1,3 +1,8 @@
+<!--
+Copyright (c) 2014  Thilo Fischer.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+-->
+
 # Stuff Related to IT
 
 * Windows

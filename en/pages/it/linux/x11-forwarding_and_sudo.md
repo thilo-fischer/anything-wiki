@@ -1,3 +1,8 @@
+<!--
+Copyright (c) 2014  Thilo Fischer.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+-->
+
 # SSH X11 Forwarding
 
 https://unix.stackexchange.com/a/12772

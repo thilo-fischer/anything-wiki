@@ -1,3 +1,8 @@
+<!--
+Copyright (c) 2014  Thilo Fischer.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+-->
+
 # Move Windows 10 Installation To Another Drive
 
 This describes how to move Windows 10 installations from one drive to another that shall replace the original drive in a already set up PC. With *drive* I mean a drive commonly used as a PCs main drive: HDD, SSD, possibly eMMC. In the following the first drive will be called the *original* drive, the latter the *replacement* drive.
