@@ -10,3 +10,4 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 * Linux
   * [Creting an entirely encrypted Debian installation](it/linux/debian_crypt.md)
   * [Notes on X11 forwarding](it/linux/x11-forwarding_and_sudo.md)
+  * [Home Server](it/linux/home-server.md)
