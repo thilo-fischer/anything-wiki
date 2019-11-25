@@ -7,6 +7,7 @@ This page describes my approach how to manage my passwords (including how to syn
 ## About
 
 This descripion serves several purposes.
+
 * It helps to explain my approach to people I want to share passwords with.
 * Others might like the approach and adopt it. (I spend some time investigating different tools and approaches and thinking about the concepts I implemented. I hope other people can benefit from the effort I already spent on this topic.)
 * Others could review my approach. If they find errors or gaps in the concepts that make the password management vulnerable we can enhance the approach to resolve those issues ; if they do not find vulnerabilities it increases my confidence that I am using a fine approach.
@@ -25,6 +26,7 @@ For synchronization among devices I use [Syncthing](https://syncthing.net/).
 I have several password databases: two for my private passwords and one or two for each group of people I share passwords with.
 
 If I was Alice and hab some passwords I want to share with Bob and some I want to share with Bob, Carol and Dave, I would have
+
 * two databases for my private passwords, one for common and one for sensible passwords, named `alice_common` and `alice_sensitive`,
 * two databases for the passwords shared with Bob named `alicebob_{common,sensitive}` (or `albo_{common,sensitive}`)
 * one database for the passwords shared with Bob, Carol and Dave named `alicebobcaroldave`(or `albocada`).
@@ -40,6 +42,7 @@ I use another database for all sensitive passwords where exposure might be harmf
 The sensible databases shall have very strong encryption passphrases; the common databases may have less strong (i.e. shorter and/or easier to type) passphrases.
 
 I have separate databases for common and sensible passwords for my private passwords and for passwords I share with just one other person. For passwords shared with several persons I use only a single database where all passwords are stored because
+
 * there are not much sensible passwords I would share with a group,
 * the destinction between common and sensible passwords is not always obvious and other people I share the databases with might have other ideas which is common and which is sensible data
 * the greater the group, the more likely someone accidentally exposes the passwords, so sensible passwords should not be shared with greater groups at all and a `_sensible` database would give a false sense of confidentiality.
