@@ -57,7 +57,7 @@ KeypassXC supports that one when opening one database this one opens other datab
 
 TODO
 
-KeypassXC -> Connect Browser Plugin -> Name for Database Conection: <database>/<browser>.<user>@<device>[:<operating-system>], e.g. alice_common/firefox.alice@alice_pc_at_home or alice_bob_common/chrome.bob@bobs_laptop:arch_linux_2019-04
+KeypassXC -> Connect Browser Plugin -> Name for Database Conection: `<database>/<browser>.<user>@<device>[:<operating-system>]`, e.g. `alice_common/firefox.alice@alice_pc_at_home` or `alice_bob_common/chrome.bob@bobs_laptop:arch_linux_2019-04`
 
 ## Synchronization Setup
 
