@@ -5,6 +5,8 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 # Stuff Related to IT
 
+* General
+  * [Password Management](it/password-management.md)
 * Windows
   * [Moving existing Windows installation to another drive](it/windows/move_win10_to_other_drive.md)
 * Linux
